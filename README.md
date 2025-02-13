@@ -1,2 +1,2 @@
-# digital-signal-processing---ambulance-sound
+# digital signal processing-ambulance sound
 This project aims to reduce or minimize ambulance siren noise so that communication between the driver and the medical team can be heard more clearly. When the emergency team gives instructions, their voices are often drowned out by the loud siren, making coordination difficult. By applying a bandpass filter tuned to human voice frequencies, this system enhances voice clarity, ensuring more effective communication in emergency situations.
